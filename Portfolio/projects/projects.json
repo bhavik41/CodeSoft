@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Balaji Bio-Fuel World",
+    "desc": "This is billing website to generate the bill in which we can add products and generate Invoice Bill .Build using php, bootstrap and Jquiry.",
+    "image": "Balaji-Bio-Fuel",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/bhavik41/balaji"
+    }
+  },
+  {
+    "name": "Voice GPT",
+    "desc": "I powered GPT with voice in which can give prompt using voice and it will also speak the response generatede build using express.js GPT Api and Bootstrap.",
+    "image": "Voice-GPT",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/bhavik41/Voice-GPT"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "It Will give weather of cities it will give wind, speed, temperature, humudity etc,Built using weather Api and Bootstrap .",
+    "image": "Weather-App",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/bhavik41/Weather-App"
+    }
+  },
+  {
+    "name": "Tour and Travel",
+    "desc": "Tour and travel landing page using express.js and react.js.",
+    "image": "Tour-travel",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  }
+]
